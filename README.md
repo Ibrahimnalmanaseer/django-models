@@ -7,6 +7,7 @@
 ### Links and Resources
 - [Pull Request 1](https://github.com/Ibrahimnalmanaseer/django-models/pull/1)
 - [Pull Request 2](https://github.com/Ibrahimnalmanaseer/django-models/pull/2)
+- [Pull Request 3](https://github.com/Ibrahimnalmanaseer/django-models/pull/3)
 - [Repository](https://github.com/Ibrahimnalmanaseer/django-models)
 
 
