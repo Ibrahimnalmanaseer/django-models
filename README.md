@@ -5,7 +5,8 @@
 ### Author: Ibrahim Almanaseer
 
 ### Links and Resources
-- [Pull Request](https://github.com/Ibrahimnalmanaseer/django-models/pull/1)
+- [Pull Request 1](https://github.com/Ibrahimnalmanaseer/django-models/pull/1)
+- [Pull Request 2](https://github.com/Ibrahimnalmanaseer/django-models/pull/2)
 - [Repository](https://github.com/Ibrahimnalmanaseer/django-models)
 
 
