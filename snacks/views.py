@@ -1,5 +1,5 @@
 from django.shortcuts import render
-from django.views.generic import TemplateView,ListView
+from django.views.generic import TemplateView,ListView,DateDetailView
 from .models import Snack
 from django.http import HttpResponse,HttpRequest
 
