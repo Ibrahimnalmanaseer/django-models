@@ -11,6 +11,7 @@
     <tr>
       <th>Purchaser_id</th>
       <th>Name</th>
+      <th>Check </th>
 
     </tr>
 
@@ -18,6 +19,7 @@
     <tr>
       <td>{{i.id}}</td>
       <td>{{i.name}}</td>
+      <td> <button><a href="{% url 'snack_detail_1' id=i.id %}" >  More Details</a></button></td>
     </tr>
     {%endfor%}
    
